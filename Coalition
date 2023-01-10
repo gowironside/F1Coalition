@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+        <meta charset = “utf-8”>
+        <title>Coalition</title>
+        <style>
+            title {font-family: "Franklin Gothic Medium", sans-serif;}	
+            
+            body {
+                font-size: 12px;
+                background-color: bisque;
+                }
+        
+            header{
+                height: 300px;
+                background-color: cornsilk;
+                padding-bottom: px;
+                padding-left: 0px;
+                padding-top: 5px;
+                padding-bottom: 20px;
+                background-size: auto, auto, auto, cover;
+                background: auto;
+                margin-left: 0px;
+                margin-right: 0px;
+        
+            }	
+
+            #f1 {
+                top: 30px;
+                
+
+            }
+        
+            h1  {
+                color: rgb(13, 53, 77);	
+                font-family: "Libre Baskerville", sans-serif;
+                text-align: center;
+                font-size: 3.2em;
+                font-weight: lighter;
+                padding: 0px;
+                letter-spacing: 0.01em;
+                text-transform: uppercase;
+                margin: 20px;
+                margin-top: 50px;
+                }
+        
+            h2  {
+                color: rgb(13, 53, 77);
+                font-family: "Libre Baskerville", sans-serif;
+                font-size: 1.6em;
+                font-style: italic;
+                font-weight: lighter;
+                padding: 3px;
+                letter-spacing: 0.01em;
+                text-decoration: underline dotted;
+                text-align: center;
+                margin: 20px;
+                margin-top: 20px;
+                
+                }
+        
+            h3 {
+                color: rgb(13, 53, 77);
+                font-family: "Libre Baskerville", sans-serif;
+                font-size: 1.8em;
+                font-weight: lighter;
+                text-transform: uppercase;
+                padding: 3px;
+                letter-spacing: 0.01em;
+                text-align: center;
+                margin: 20px;
+                margin-left: 40px;
+        
+            }
+        
+            p {
+                color: rgb(13, 53, 77);
+                font-family: "Libre Baskerville", sans-serif;
+                font-size: 1.2em;
+                font-weight: normal;
+                letter-spacing: 0.01em;
+                padding: 3px;
+                line-height: 30px;
+                width: 550px;
+                margin-block-end: 1em;
+                line-break: auto;	
+                text-align: center;
+                margin: 20px;
+                margin-left: 440px;
+            }
+        
+            #mod {
+                position: relative;
+                top: 2em;
+        
+            }
+            
+            header {
+                height: 175px;
+                
+        
+            }
+        
+            a {
+                font-family: "Libre Baskerville", sans-serif;	
+                font-weight: normal;
+                font-size: 1.2em;
+                letter-spacing: 0.01em;
+                padding: 3px;
+                color: deepskyblue;
+        
+        
+        
+            }
+
+            </style>
+
+            </head>
+
+     <body>
+    <header role ="banner">
+    <h1>Coaliton</h1>
+	<h2>Making our Vision a Reality</h2>
+    </header>
+<div id="f1">
+    <img src="https://o.remove.bg/downloads/c5de7eef-e688-4f3e-ae94-bbccbfa06240/1280px-F1_in_Schools.svg-removebg-preview.png"></img>
+</div>
+
+    <div id="mod">
+<h3>Who Are We?</h3>
+<p>Coalition is a group of young students with an exceptional acquaintance with car design. We have created a multiplicity of designs for different cars that could qualify for the Formula 1 in Schools Finals.</p>
+<h3>Our Aim</h3>
+<p>Our main ambition is to distribute our ideas in order to succeed in assembling a dynamically intuitive racecar that excels in the fields of classical mechanics and fluid dynamics.</p>
+</div>
+
+
+    </body>
+
+</html>
